@@ -1,16 +1,30 @@
-## Hi there 👋
+**👋 Hi, I'm Klintech!**  
+🚀 **Frontend Developer | UI/UX Enthusiast | Web Designer**  
 
-<!--
-**klintech/klintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about crafting beautiful, responsive, and user-friendly web experiences. I specialize in **HTML, CSS, JavaScript, and Tailwind CSS** and I'm currently learning **API integration** and **Next.js** to expand my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **💻 What I Do**  
+- 🎨 **Frontend Development** – Creating modern, responsive, and intuitive user interfaces.  
+- 🌐 **Web Design** – Designing sleek and engaging websites.  
+- ⚡ **Performance Optimization** – Ensuring fast and smooth user experiences.  
+- 🔥 **Projects I'm Working On**  
+  - 🛒 **E-commerce Storefront** (Next.js + Tailwind CSS)  
+ 
+
+---
+
+### **📚 Currently Learning**  
+- 🛠 **Next.js & React**  
+- 🔗 **API Integrations**  
+- 💡 **Advanced UI/UX Techniques**  
+
+---
+
+### **📫 Let's Connect!**  
+🔗 [Portfolio Website](#) *(Coming Soon!)*  
+🐦 [https://x.com/Chinagorom_kelv](#)  
+
+---
+🚀🚀🚀🚀
