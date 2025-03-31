@@ -1,5 +1,5 @@
 **👋 Hi, I'm Klintech!**  
-🚀 **Frontend Developer | UI/UX Enthusiast | Web Designer**  
+🚀 **Frontend Developer | UI/UX Enthusiast | Web Developer**  
 
 I'm passionate about crafting beautiful, responsive, and user-friendly web experiences. I specialize in **HTML, CSS, JavaScript, and Tailwind CSS** and I'm currently learning **API integration** and **Next.js** to expand my skills.  
 
@@ -23,7 +23,7 @@ I'm passionate about crafting beautiful, responsive, and user-friendly web exper
 ---
 
 ### **📫 Let's Connect!**  
-🔗 [Portfolio Website](#) *(Coming Soon!)*  
+🔗 [klintech.name.ng](#) *(Coming Soon!)*  
 🐦 [https://x.com/Chinagorom_kelv](#)  
 
 ---
