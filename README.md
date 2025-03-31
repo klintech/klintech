@@ -23,7 +23,7 @@ I'm passionate about crafting beautiful, responsive, and user-friendly web exper
 ---
 
 ### **📫 Let's Connect!**  
-🔗 [klintech.name.ng](#) *(Coming Soon!)*  
+🔗 [klintech.name.ng](#)  
 🐦 [https://x.com/Chinagorom_kelv](#)  
 
 ---
